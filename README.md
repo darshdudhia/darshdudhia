@@ -10,9 +10,10 @@ My recent research focuses on lightweight convolutional neural networks for medi
 
 - **Multiclass Brain Tumor Classification from MRI Images Using a Lightweight CNN Model**  
   Darsh Dudhia (2026)
-  Preprint:
-  - Figshare: [https://figshare.com/articles/preprint/Multiclass_Brain_Tumor_Classification_from_MRI_Images_Using_a_Lightweight_CNN_Model](https://figshare.com/articles/preprint/Multiclass_Brain_Tumor_Classification_from_MRI_Images_Using_a_Lightweight_CNN_Model)
-  - DOI: [https://doi.org/10.6084/m9.figshare.31287481)](https://doi.org/10.6084/m9.figshare.31287481)
+  
+  - Preprint:
+    - Figshare: [https://figshare.com/articles/preprint/Multiclass_Brain_Tumor_Classification_from_MRI_Images_Using_a_Lightweight_CNN_Model](https://figshare.com/articles/preprint/Multiclass_Brain_Tumor_Classification_from_MRI_Images_Using_a_Lightweight_CNN_Model)
+    - DOI: [https://doi.org/10.6084/m9.figshare.31287481)](https://doi.org/10.6084/m9.figshare.31287481)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
